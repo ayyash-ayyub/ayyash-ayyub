@@ -1,4 +1,4 @@
-<img src="https://github.com/ayyash-ayyub/Artificial-Intelligence-Lab/blob/main/imphnen.png" alt="malas">
+![img](https://i.imgur.com/Q3ChW51.jpeg)
 
 - 👋 Hi, I’m @ayyash-ayyub
 - 👀 I’m interested in Code and Artificail Intelligence
