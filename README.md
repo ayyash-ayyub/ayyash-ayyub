@@ -1,3 +1,5 @@
+<img src="https://github.com/ayyash-ayyub/Artificial-Intelligence-Lab/blob/main/imphnen.png" alt="malas">
+
 - 👋 Hi, I’m @ayyash-ayyub
 - 👀 I’m interested in Code and Artificail Intelligence
 - 🌱 I’m currently working at Terminal Koding Teknologi
